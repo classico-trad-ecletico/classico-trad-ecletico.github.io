@@ -12,7 +12,6 @@ description: >
 keywords       : [Ecletismo, Nacionalismo, História urbana]
 bibliography   : "ppgfau-projeto.bib"
 csl            : "styles/chicago-fullnote-bibliography-with-ibid.csl"
-lang           : pt-BR
 source         : 23106.067490/2018-89
 suppress-bibliography: true
 ---

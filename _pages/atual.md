@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title : "Ações em andamento"
 date  : 2020-04-24
 ---
