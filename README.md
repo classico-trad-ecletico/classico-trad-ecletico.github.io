@@ -2,7 +2,7 @@
 
 ## Cosmopolitismo e nacionalismo na cidade industrial
 
-![Website](https://github.com/dmcpatrimonio/arqtrad/workflows/Website/badge.svg?branch=master)
+![Website](https://github.com/classico-trad-ecletico/classico-trad-ecletico.github.io/workflows/jekyll-gh-pages.yml/badge.svg?branch=main)
 
 ## Sumário
 

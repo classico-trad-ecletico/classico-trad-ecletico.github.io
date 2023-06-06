@@ -1,5 +1,6 @@
 ---
 title: "Trajetória"
+date: 2018-05-15
 ---
 
 Trajetória acadêmica
