@@ -1,0 +1,128 @@
+Pedro Palazzo:
+  name    : "Pedro P. Palazzo"
+  avatar  : "https://avatars3.githubusercontent.com/u/8295666"
+  bio     : 'Coordenador do projeto'
+  location: "Universidade de Brasília"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:palazzo@unb.br"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://palazzo.pt"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/p3palazzo"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+    - label: "ORCID"
+      icon: "ai fa-fw ai-orcid"
+      url: "https://orcid.org/0000-0002-0187-774X"
+    - label: "CV Lattes"
+      icon: "ai fa-fw ai-lattes"
+      url: "http://lattes.cnpq.br/5767592881382885"
+    - label: "Ciência Vitæ"
+      icon: "ai fa-fw ai-ciencia-vitae"
+      url: "https://www.cienciavitae.pt//pt/D91E-0C60-B56B"
+    - label: "ResearchGate"
+      icon: "ai fa-fw ai-researchgate"
+      url: "https://www.researchgate.net/profile/Pedro-Palazzo"
+
+Anabel Lima:
+  name  : "Anabel Sousa Lima"
+  avatar: "/assets/media/avatar-anabel-lima.jpg"
+  bio   : 'Mestre'
+  givenName: "Anabel Sousa"
+  familyName: "Lima"
+  links:
+  - label: "ORCID"
+    icon: "ai ai-orcid"
+    url: "https://orcid.org/"
+  - label: "CV Lattes"
+    icon: "ai ai-lattes"
+    url: "http://lattes.cnpq.br/3621618123558315"
+
+Sarah Almeida:
+  name  : "Sarah da Silva Almeida"
+  avatar: "/assets/media/avatar-sarah-almeida.jpg"
+  bio   : "Mestre"
+  givenName: "Sarah da Silva"
+  familyName: "Almeida"
+  links:
+  - label: "ORCID"
+    icon: "ai ai-orcid"
+    url: "https://orcid.org/0000-0003-0413-9598"
+  - label: "CV Lattes"
+    icon: "ai ai-lattes"
+    url: "http://lattes.cnpq.br/8028408167525138"
+
+Daniela Matias:
+  name  : "Daniela Matias Xavier"
+  bio   : 'Arquiteta e Urbanista'
+  avatar: "/assets/media/avatar-daniela-matias.jpg"
+  givenName: "Daniela Matias"
+  additionalName: ""
+  familyName: "Xavier"
+  links:
+  - label: "ORCID"
+    icon: "ai ai-orcid"
+    url: "https://orcid.org/0000-0002-7858-9324"
+  - label: "CV Lattes"
+    icon: "ai ai-lattes"
+    url: "http://lattes.cnpq.br/6880371959324159"
+
+Flávia Rosa:
+  name  : "Flávia Rosa de La Plata"
+  bio   : 'Arquiteta e Urbanista'
+  avatar: "/assets/media/avatar-flavia-rosa.jpg"
+  familyName: "La Plata"
+  givenName: "Flávia Rosa"
+  additionalName: "de"
+  links:
+  - label: "ORCID"
+    icon: "ai ai-orcid"
+    url: "https://orcid.org/0000-0002-8758-9692"
+  - label: "CV Lattes"
+    icon: "ai ai-lattes"
+    url: "http://lattes.cnpq.br/3029180833677009"
+
+Gledson Nascimento:
+  name    : "Gledson Rodrigues do Nascimento"
+  familyName: "Nascimento"
+  givenName: "Gledson Rodrigues"
+  additionalName: "do"
+  avatar  : "/assets/media/avatar-gledson-nascimento.jpg"
+  bio     : "Doutorando"
+  location: "Universidade de Brasília"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gledson.nascimento@luno.unb.br"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0003-2705-4925"
+    - label: "CV Lattes"
+      icon: "ai ai-lattes"
+      url: "http://lattes.cnpq.br/7862771578861119"
+
+João Testi:
+  name  : "João  Testi Neto"
+  avatar: "/assets/media/avatar-joao-testi.jpg"
+  bio   : 'Arquiteto e Urbanista'
+  givenName: "João"
+  additionalName: ""
+  familyName: "Testi Neto"
+  links:
+  - label: "ORCID"
+    icon: "ai ai-orcid"
+    url: "https://orcid.org/0000-0001-7192-425X"
+  - label: "CV Lattes"
+    icon: "ai ai-lattes"
+    url: "http://lattes.cnpq.br/4426176176505648"

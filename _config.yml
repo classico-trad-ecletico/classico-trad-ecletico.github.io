@@ -294,6 +294,14 @@ compress_html:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "mapa"
+      header:
+        overlay_image: https://i.pinimg.com/originals/39/19/43/391943fd162c3af27bfc3ab1bf56e323.jpg
+        overlay_filter: 0.7
   # _posts
   - scope:
       path: ""

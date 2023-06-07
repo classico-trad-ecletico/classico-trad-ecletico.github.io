@@ -1,26 +1,28 @@
 ---
-title          : "Clássico, tradicional, eclético"
-subtitle       : "Nacionalismo e cosmopolitismo na cidade industrial"
-author:
- - name        : Pedro Paulo Palazzo
-   affiliation : Programa de Pós-Graduação da FAU--UnB
-date           : 2018-06-11
-description: >
+title: |
+  Clássico, tradicional, eclético
+  <span class="subtitle">Nacionalismo e cosmopolitismo na cidade industrial</span>
+author   : Pedro Palazzo
+date     : 2018-06-11
+layout   : single
+toc      : true
+tags     : [Ecletismo, Nacionalismo, História urbana]
+permalink: /projeto/
+source   : 23106.067490/2018-89
+csl      : "styles/chicago-fullnote-bibliography-with-ibid.csl"
+bibliography: "ppgfau-projeto.bib"
+suppress-bibliography: true
+excerpt: >
   Este projeto de pesquisa visa a realizar uma taxonomia dos movimentos
   arquitetônicos da virada do século XIX no tocante às suas aspirações
-  cosmopolitas ou nacionalistas, com ênfase no Brasil da primeira República.
-keywords       : [Ecletismo, Nacionalismo, História urbana]
-bibliography   : "ppgfau-projeto.bib"
-csl            : "styles/chicago-fullnote-bibliography-with-ibid.csl"
-source         : 23106.067490/2018-89
-suppress-bibliography: true
+  cosmopolitas ou nacionalistas, com ênfase no mundo luso-brasileiro
+  das primeiras Repúblicas.
+header:
+  overlay_image: https://i.pinimg.com/originals/39/19/43/391943fd162c3af27bfc3ab1bf56e323.jpg
+  overlay_filter: 0.7
 ---
 
-Clássico, tradicional, eclético
-===============================
-
-Introdução
-----------
+## Objeto ##
 
 Este projeto de pesquisa versa sobre
 os discursos arquitetônicos produzidos entre 1860 e 1930,
@@ -137,8 +139,7 @@ expressando-se, contraditoriamente, tanto no
 movimento neocolonial quanto no modernismo.
 
 
-Justificativa
--------------
+## Justificativa ##
 
 O presente projeto de pesquisa insere-se
 nas linhas de pesquisa História e Teoria da Arquitetura,
@@ -274,8 +275,7 @@ mas que vem passando curiosamente inconteste
 no discurso arquitetônico.
 
 
-Problemática e marco teórico
-----------------------------
+## Problemática e marco teórico ##
 
 Assume-se como problema central desta pesquisa, destarte,
 a necessidade de resgate do panorama teórico
@@ -331,8 +331,7 @@ apresentam maior relevância por comporem o contexto
 de discussões verdadeiramente públicas.
 
 
-Objetivos
----------
+## Objetivos ##
 
 Objetivo geral
 : Propor uma tipologia do panorama teórico e
@@ -357,8 +356,7 @@ Objetivos específicos
   no Brasil, com ênfase no Planalto central e imediações.
 
 
-Metodologia
------------
+## Metodologia ##
 
 De modo a retratar o panorama teórico
 e edificado do período estudado,
@@ -421,8 +419,7 @@ dos objetos arquitetônicos.
 [@amoruso:2016bim]
 
 
-Resultados esperados
---------------------
+## Resultados pretendidos ##
 
 Este projeto de pesquisa deve resultar
 em produtos de cunho tanto técnico quanto científico,
@@ -465,8 +462,7 @@ momento crucial nas abordagens críticas
 a respeito do caráter histórico da arquitetura.
 
 
-Bibliografia crítica
---------------------
+## Bibliografia crítica ##
 
 [^1]: Em especial, Lima, Anabel Sousa. Cidades Invisíveis
   e Arquitetura da Cidade: Relacionando a
