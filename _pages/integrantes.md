@@ -7,11 +7,6 @@ entries_layout: grid
 author: Pedro Palazzo
 author_profile: true
 read_time: false
-sidebar:
-  nav: "mapa"
-header:
-  overlay_image: "assets/media/fragoso-architectural-og.jpg"
-  overlay_filter: 0.5
 ---
 
 ## Pesquisadores ##
